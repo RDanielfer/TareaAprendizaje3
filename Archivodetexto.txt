@@ -1,1 +1,3 @@
-Esto es un archivo de texto plano cambiado
+version https://git-lfs.github.com/spec/v1
+oid sha256:115587e5b78add28eb1620c9bf20e052618bb5c0122f2b4405a0b449ac0b7774
+size 42
